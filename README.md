@@ -1,2 +1,2 @@
 # github_guide
-A guide to github
+Mari belajar github 
